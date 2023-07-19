@@ -6,6 +6,10 @@ public class Demo {
 		System.out.println("This is demo");
 	}
 	
+	private void name() {
+		System.out.println("This is karthik branch");
+	}
+	
 	private void login() {
 		System.out.println("This is Aishwarya- login");
 	}
